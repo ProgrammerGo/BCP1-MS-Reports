@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ms-reports
+    name: ms-report
   profiles:
     active:
       - dev #(2)
